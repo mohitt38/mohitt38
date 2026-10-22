@@ -23,7 +23,7 @@ Building real-world AI systems — from multilingual RAG chatbots to clinical NL
 
 ### About
 
-Final-year B.Tech COmputer Science (AI) student based in **Udaipur, India**. I design and ship practical AI products — grounded generation with RAG, language pipelines, and clean Python backends people can actually use.
+Final-year B.Tech Computer Science (AI) student based in **Udaipur, India**. I design and ship practical AI products — grounded generation with RAG, language pipelines, and clean Python backends people can actually use.
 
 Open to **full-time roles**, **freelance**, and **research collaborations**.
 
