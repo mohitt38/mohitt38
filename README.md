@@ -6,7 +6,7 @@
 
 **AI Engineer · Generative AI · RAG · NLP · Python**
 
-Building real-world AI systems — from multilingual RAG chatbots to clinical NLP and OCR pipelines.
+*Building real-world AI systems across Generative AI, LLMs, RAG, NLP and backend development.*
 
 [Portfolio](https://mohit-nagda.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mohitnagda/) · [Email](mailto:nagdamohit19@gmail.com) · [Resume](https://mohit-nagda.vercel.app/Mohit-Nagda-Resume.pdf)
 
@@ -19,6 +19,10 @@ Building real-world AI systems — from multilingual RAG chatbots to clinical NL
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
+<br />
+
+<img src="https://komarev.com/ghpvc/?username=mohitt38&label=Profile%20views&color=8eb6ff&style=flat-square" alt="Profile views" />
+
 </div>
 
 ---
@@ -27,6 +31,8 @@ Building real-world AI systems — from multilingual RAG chatbots to clinical NL
 
 Final-year B.Tech Computer Science (AI) student at **Geetanjali Institute of Technical Studies**, Udaipur · **CGPA 9.0/10**.  
 I design and ship practical AI products — grounded generation with RAG, language pipelines, and clean Python backends people can actually use.
+
+**Currently building:** ContentX Python backend + AI generation workflows at Toba Tech · clinical NLP research systems · portfolio demos for RAG / OCR / meeting intelligence.
 
 Open to **full-time roles**, **freelance**, and **research collaborations**.
 
