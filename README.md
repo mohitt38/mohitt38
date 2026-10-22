@@ -1,5 +1,7 @@
 ﻿<div align="center">
 
+<img src="https://mohit-nagda.vercel.app/mohit-portrait.png" width="148" height="148" alt="Mohit Nagda" style="border-radius: 50%; border: 3px solid #8eb6ff; box-shadow: 0 0 0 6px rgba(142,182,255,0.15);" />
+
 # Mohit Nagda
 
 **AI Engineer · Generative AI · RAG · NLP · Python**
