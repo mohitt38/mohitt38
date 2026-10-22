@@ -23,9 +23,43 @@ Building real-world AI systems — from multilingual RAG chatbots to clinical NL
 
 ### About
 
-Final-year B.Tech Computer Science (AI) student based in **Udaipur, India**. I design and ship practical AI products — grounded generation with RAG, language pipelines, and clean Python backends people can actually use.
+Final-year B.Tech Computer Science (AI) student at **Geetanjali Institute of Technical Studies**, Udaipur · **CGPA 9.0/10**.  
+I design and ship practical AI products — grounded generation with RAG, language pipelines, and clean Python backends people can actually use.
 
 Open to **full-time roles**, **freelance**, and **research collaborations**.
+
+---
+
+### Experience
+
+| Role | Org | Dates |
+| --- | --- | --- |
+| **Python Developer Intern** | Toba Tech Solutions · Udaipur | Jul 2026 – Present |
+| **AI Research Intern** | Tech Adaptive Pandit Pty Ltd · Australia (Remote) | Dec 2025 – Jun 2026 |
+| **AI/ML Trainee** | Grass Solutions Pvt. Ltd. · Udaipur | Jun 2025 – Jul 2025 |
+
+- **Toba Tech** — Python backend for ContentX; AI image generation and script-to-content workflows  
+- **Tech Adaptive Pandit** — Applied LLM research for clinical healthcare (SOAP notes, diagnostic reasoning); authored paper + co-authored book chapter  
+- **Grass Solutions** — End-to-end ML pipelines: data, features, training, evaluation (scikit-learn, TensorFlow/Keras)
+
+---
+
+### Research & papers
+
+<table>
+  <tr>
+    <td width="50%">
+      <p><strong>Research paper</strong> · Author · <em>Camera-ready submission</em></p>
+      <h3>Comparative Evaluation of LLM Models for Clinically Realistic SOAP Documentation</h3>
+      <p>Healthcare AI · Clinical NLP · LLMs — comparative study of language models for clinically realistic SOAP documentation.</p>
+    </td>
+    <td width="50%">
+      <p><strong>Book chapter</strong> · Co-author · <em>Under peer review</em></p>
+      <h3>Agentic AI-Based Clinical Automation Framework for Healthcare Systems</h3>
+      <p>Agentic AI · Clinical workflows — framework for clinical automation, under peer review with a major technical publisher.</p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -61,6 +95,26 @@ Open to **full-time roles**, **freelance**, and **research collaborations**.
 <p align="center">
   <a href="https://github.com/mohitt38?tab=repositories"><strong>See all projects →</strong></a>
 </p>
+
+---
+
+### Certifications & training
+
+| Type | Title | Detail |
+| --- | --- | --- |
+| **Certification** | Learner to Builder: AI Agent Architect — IBM | Multi-agent AI systems & architectures · 2025 |
+| **Certification** | Prompt Engineering — IBM SkillsBuild / CSRBOX | Completed 2024–25 |
+| **Bootcamp** | Data Science, ML, Deep Learning & NLP — Krish Naik | End-to-end ML / DL / NLP + projects · 2024 |
+| **Training** | Red Hat Certified System Administrator | Training completed · Exam pending |
+
+**Volunteer** — Technical volunteer, *The 4th State — Plasma Exhibition*, Institute of Plasma Research (IPR) · STEM outreach & event coordination
+
+---
+
+### Education
+
+**B.Tech in Computer Science** — Specialization in Artificial Intelligence  
+Geetanjali Institute of Technical Studies, Udaipur · 2023 – 2027 · **CGPA 9.0 / 10.0** · Final year
 
 ---
 
