@@ -59,7 +59,7 @@ Open to **full-time roles**, **freelance**, and **research collaborations**.
 </table>
 
 <p align="center">
-  <a href="https://mohit-nagda.vercel.app/#projects"><strong>See all projects on the portfolio →</strong></a>
+  <a href="https://github.com/mohitt38?tab=repositories"><strong>See all projects →</strong></a>
 </p>
 
 ---
