@@ -1,40 +1,98 @@
-﻿# Hi, I'm Mohit Nagda 👋
+﻿<div align="center">
 
-**AI Engineer** building real systems with Generative AI, LLMs, RAG, NLP, and Python.
+# Mohit Nagda
 
-🌐 **Portfolio:** [mohit-nagda.vercel.app](https://mohit-nagda.vercel.app)  
-💼 **LinkedIn:** [linkedin.com/in/mohitnagda](https://www.linkedin.com/in/mohitnagda/)  
-📧 **Email:** nagdamohit19@gmail.com  
-📍 Udaipur, Rajasthan, India
+**AI Engineer · Generative AI · RAG · NLP · Python**
 
----
+Building real-world AI systems — from multilingual RAG chatbots to clinical NLP and OCR pipelines.
 
-## What I work on
+[Portfolio](https://mohit-nagda.vercel.app) · [LinkedIn](https://www.linkedin.com/in/mohitnagda/) · [Email](mailto:nagdamohit19@gmail.com) · [Resume](https://mohit-nagda.vercel.app/Mohit-Nagda-Resume.pdf)
 
-- Generative AI & LLM applications
-- Retrieval-Augmented Generation (RAG)
-- NLP pipelines (summarization, clinical language, OCR)
-- Python backends and Streamlit demos
+<br />
 
-## Featured projects
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 
-| Project | What it does | Repo |
-| --- | --- | --- |
-| **AgriNova** | Multilingual agricultural RAG chatbot (Hindi, English, Punjabi) | [AgriNova-chatbot](https://github.com/mohitt38/AgriNova-chatbot) |
-| **Text Summarizer** | Extractive + abstractive summarization with BART / Flask | [Text-Summarizer](https://github.com/mohitt38/Text-Summarizer) |
-| **Meeting Task Management** | Offline speech-to-task pipeline for meeting notes | [Meeting-task-management](https://github.com/mohitt38/Meeting-task-management) |
-| **OCR Text Extractor** | Barcode-first parcel label OCR | [OCR-text-extractor](https://github.com/mohitt38/OCR-text-extractor) |
-| **Portfolio** | Personal site — Generative AI, RAG & Python | [mohit-nagda-portfolio](https://github.com/mohitt38/mohit-nagda-portfolio) |
-
-## Tech I use often
-
-`Python` `LangChain` `RAG` `Hugging Face` `NLP` `Streamlit` `Flask` `PyTorch` `Gemini` `EasyOCR` `Git`
-
-## Currently
-
-- Final-year B.Tech (AI-focused CS)
-- Open to AI / Python roles, freelance, and research collaborations
+</div>
 
 ---
 
-⭐ Thanks for visiting — more builds coming.
+### About
+
+Final-year B.Tech student (AI-focused CS) based in **Udaipur, India**. I design and ship practical AI products — grounded generation with RAG, language pipelines, and clean Python backends people can actually use.
+
+Open to **full-time roles**, **freelance**, and **research collaborations**.
+
+---
+
+### Featured work
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/mohitt38/AgriNova-chatbot">AgriNova</a></h3>
+      <p>Multilingual agricultural RAG chatbot in Hindi, English, and Punjabi — LangChain + retrieval for grounded crop advice.</p>
+      <code>RAG</code> <code>LangChain</code> <code>Gemini</code> <code>Streamlit</code>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/mohitt38/Text-Summarizer">Text Summarizer</a></h3>
+      <p>Extractive + abstractive summarization with Hugging Face BART, served through a Flask API.</p>
+      <code>NLP</code> <code>BART</code> <code>Flask</code> <code>Hugging Face</code>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3><a href="https://github.com/mohitt38/Meeting-task-management">Meeting Task Management</a></h3>
+      <p>Offline speech-to-task pipeline that turns meeting audio into structured follow-ups.</p>
+      <code>Speech-to-text</code> <code>Python</code> <code>Streamlit</code>
+    </td>
+    <td width="50%">
+      <h3><a href="https://github.com/mohitt38/OCR-text-extractor">OCR Text Extractor</a></h3>
+      <p>Barcode-first parcel label OCR for reliable text extraction from real-world images.</p>
+      <code>EasyOCR</code> <code>Computer Vision</code> <code>Streamlit</code>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="https://mohit-nagda.vercel.app/#projects"><strong>See all projects on the portfolio →</strong></a>
+</p>
+
+---
+
+### Stack
+
+| Focus | Tools |
+| --- | --- |
+| **AI / ML** | Python, PyTorch, TensorFlow, scikit-learn, NLP |
+| **Generative AI** | LLMs, RAG, LangChain, LangGraph, Hugging Face, Gemini |
+| **Apps & APIs** | Streamlit, Flask, REST APIs |
+| **Vision** | EasyOCR, image pipelines |
+
+---
+
+### Spotlight
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Live_Portfolio-mohit--nagda.vercel.app-8eb6ff?style=for-the-badge&labelColor=08090d)](https://mohit-nagda.vercel.app)
+[![GitHub](https://img.shields.io/badge/GitHub-mohitt38-e8ecf4?style=for-the-badge&labelColor=121722&logo=github)](https://github.com/mohitt38)
+
+<img src="https://github-readme-stats.vercel.app/api?username=mohitt38&show_icons=true&theme=transparent&hide_border=true&title_color=8eb6ff&icon_color=8eb6ff&text_color=e8ecf4&bg_color=08090d" height="155" alt="GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitt38&layout=compact&theme=transparent&hide_border=true&title_color=8eb6ff&text_color=e8ecf4&bg_color=08090d" height="155" alt="Top languages" />
+
+</div>
+
+---
+
+<div align="center">
+
+**Let’s build something intelligent.**
+
+[mohit-nagda.vercel.app](https://mohit-nagda.vercel.app) · [nagdamohit19@gmail.com](mailto:nagdamohit19@gmail.com)
+
+</div>
